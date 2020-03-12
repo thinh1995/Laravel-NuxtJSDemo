@@ -1,0 +1,20 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "My kryptonian Nuxt.js project",
+  "author": "thinhnx_fimplus",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.8.5",
+    "@nuxtjs/axios": "^5.3.6",
+    "ant-design-vue": "^1.1.10",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
